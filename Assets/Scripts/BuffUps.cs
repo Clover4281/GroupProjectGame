@@ -6,7 +6,6 @@ public class BuffUps : MonoBehaviour
 {
 
     public float AmountToGive = 5;
-    public float Duration = 3;
 
     private PlayerMovement player;
     
